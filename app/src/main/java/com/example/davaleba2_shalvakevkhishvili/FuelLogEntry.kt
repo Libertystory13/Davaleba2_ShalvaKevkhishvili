@@ -1,0 +1,1 @@
+data class FuelLogEntry(val id: Int, val mileage: Int, val gallons: Double, val cost: Double)
